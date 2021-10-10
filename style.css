@@ -285,6 +285,10 @@ footer p{
     font-weight: 300;
 }
 
+footer p a{
+    color: var(--col--main);
+}
+
 footer svg{
     height: 1rem;
     width: 1rem;
